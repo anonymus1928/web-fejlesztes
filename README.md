@@ -23,3 +23,6 @@ Gyakorlati anyagok az estis web-fejlesztés 4-es kurzusához.
 - [Blog](http://webfejlesztes.elte.hu/)
 - [Canvas](https://canvas.elte.hu/belepes/)
 - [Digitális tananyag](http://tamop412.elte.hu/tananyagok/weblapkeszites/)
+
+## Elérhetőségek
+- lx12ag\[at\]inf\[dot\]elte\[dot\]hu
